@@ -1,0 +1,112 @@
+
+.container {
+    background-color: #eee;
+    color: black;
+}
+
+#row1 img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+
+.navbar .container-fluid img {
+    max-width: 70px;
+    max-height: 70px;
+}
+.containerr{
+    width:95%;
+    overflow:hidden;
+    margin: 50px 40px;
+    padding:50px 0px;
+    background-color:transparent;
+
+}
+.pics{
+    width:188px;
+    height:250px;
+}
+.containerr ul {
+           padding: 0px;
+           margin: 0px;
+}
+.containerr ul li{
+        list-style: none;
+        float: left;
+        width:20%;
+        height:300px;
+        background:tan;
+        margin: 40px 30px 0px 10px;
+        box-sizing: border-box;
+        border: 2px solid ;
+}
+.containerr ul li:hover{
+    opacity:0.9;
+}
+.containerr ul li .tile {
+    width: 100%;
+    height:50px;
+    line-height: 50px;
+    background:maroon;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+}
+.containerr2{
+    width:95%;
+    overflow:hidden;
+    margin: 50px 40px;
+    padding:50px 0px;
+    background-color:transparent;
+}
+.pics{
+    width:188px;
+    height:250px;
+}
+.containerr2 ul {
+           padding: 0px;
+           margin: 0px;
+}
+.containerr2 ul li{
+        list-style: none;
+        float: left;
+        width:20%;
+        height:300px;
+        background:tan;
+        margin: 40px 30px 0px 10px;
+        box-sizing: border-box;
+        border: 2px solid ;
+}
+.containerr2 ul li:hover{
+    opacity:0.9;
+}
+.containerr2 ul li .tile {
+    widows: 100%;
+    height:50px;
+    line-height: 50px;
+    background:maroon;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: rgba(190, 108, 108, 0.897);
+    text-align: center;
+}
+.wrapper{
+        width:auto;
+        height:200px;
+}
+.h3{
+    font-size: 15px;
+}
+
